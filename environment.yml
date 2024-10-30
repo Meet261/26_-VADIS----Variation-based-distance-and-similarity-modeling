@@ -1,0 +1,14 @@
+name: vadis_analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-tidyverse
+  - r-lme4
+  - r-party
+  - r-phangorn
+  - r-car
+  - r-devtools
+  - r-knitr
+  - r-rmarkdown
