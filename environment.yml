@@ -12,3 +12,5 @@ dependencies:
   - r-devtools
   - r-knitr
   - r-rmarkdown
+  - libicu
+
